@@ -20,7 +20,7 @@ Wussten Sie, dass die Angebote für Randständige und Obdachlose zahlreich, jedo
 ## Einleitung
 
 Trotz der immensen Wohlfahrt in den DACH-Ländern leben mit uns eine nicht zu vernachlässigende Anzahl Randständige Ihnen wollen wir die Hand reichen , um ein Leben in Würde zu führen und Teil unserer Gesellschaft zu werden. In Deutschland sind Schätzungen zufolge [237’000 Menschen obdachlos](https://de.statista.com/statistik/daten/studie/36350/umfrage/anzahl-der-wohnungslosen-in-deutschland-seit-1995/) in Österreich sind es rund [13‘900](https://de.wikipedia.org/wiki/Wohnungslosigkeit_in_%C3%96sterreich) und für die Schweiz existieren [keine verlässlichen Zahlen](https://www.cms-basel.ch/dam/jcr:b892835f-c7dc-43d5-b848-08233582428b/Kein_Daheim-CMS-Publikation-2019.pdf). 
-Auch die Obdachlosen sind im 21. Jahrhundert angekommen, doch die digitale Welt hat nicht auf sie gewartet. Viele der Randständigen besitzen  ein Mobiltelefon oder Smartphone um Kontakt zur Aussenwelt zu halten. Wir wollen ihnen helfen, sich im Informationstschungel der Hilfsangebote zurecht zufinden und Hilfsangebote und Nachfrage zusammenzuführen. 
+Auch die vergessenen Mitglieder der Gesellschaft sind im 21. Jahrhundert angekommen, doch die digitale Welt hat nicht auf sie gewartet. Viele der Randständigen verfügen über ein Mobiltelefon oder Smartphone um Kontakt zur Aussenwelt zu halten. Wir wollen ihnen helfen, sich im Informationstschungel der Hilfsangebote zurecht zufinden und Hilfsangebote und Nachfrage zusammenzuführen. 
  
 ## Der SCHEINWERFER
 

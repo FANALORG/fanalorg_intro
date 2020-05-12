@@ -1,4 +1,4 @@
-# Prjektbeschreibung SCHEINWERFER
+# Projektbeschreibung SCHEINWERFER
 
 ## Projektübersicht
 

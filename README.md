@@ -15,7 +15,7 @@
 
 ## Executive Summary
 
-Wussten Sie, dass die Angebote für Randständige und Obdachlose zahlreich, jedoch schlecht Vernetzt und digital kaum repräsentiert sind? Alleine in der DACH-Region sind über eine Viertellmillion Menschen obdachlos. Der _FANAL_ bietet das Portal, um Nachfrage und Angebot von Hilfsangeboten zusammenzuführen. Im Gegensatz zu anderen Informationsportalen sind wir, darauf konzentriert einfach und schnell die richtige, je nach dem überlebenswichtige, Information bereitzustellen. Wir sind ein Team von Unternehmern, denen Engagement für sozial Benachteiligte eine Herzensangelegenheit ist. Im Wesentlichen sind wir das Yelp für Randständige und unsere Vision ist es, Hilfsangebote digital zu vermitteltn und Informationswege drastisch zu kürzen. 
+Wussten Sie, dass die Angebote für Randständige und Obdachlose zahlreich, jedoch schlecht Vernetzt und digital kaum repräsentiert sind? Alleine in der DACH-Region sind über eine Viertellmillion Menschen obdachlos. Der _FANAL_ bietet das Portal, um Nachfrage und Angebot von Hilfsangeboten zusammenzuführen. Im Gegensatz zu anderen Informationsportalen sind wir, darauf konzentriert einfach und schnell die richtige, je nach dem überlebenswichtige, Information bereitzustellen. Wir sind ein Team von Unternehmern, denen Engagement für sozial Benachteiligte eine Herzensangelegenheit ist. Im Wesentlichen sind wir das Yelp für Randständige und unsere Vision ist es, Hilfsangebote digital zu vermitteln und Informationswege drastisch zu kürzen. 
 
 ## Einleitung
 

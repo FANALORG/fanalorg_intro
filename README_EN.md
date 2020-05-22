@@ -9,7 +9,7 @@
 | Dissemination level | Public           |                                            
 | Version             | 0.2 / 20200522              |                                            
 | Text License          | Creative Commons Attribution-ShareAlike 4.0 |International License |
-| Contact form              | [Formular](https://forms.gle/VesWraZHU3acraW37)           
+| Contact form              | [Form](https://forms.gle/VesWraZHU3acraW37)           
 | Status              | Work in progress                          
 
 
